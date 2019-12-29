@@ -9,5 +9,8 @@
     <mapping directory="$PROJECT_DIR$/../TfFizzBuzz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../TfWord2Vec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyBase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyBaseGUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyBaseNlp" vcs="Git" />
   </component>
 </project>

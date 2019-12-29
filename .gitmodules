@@ -4,3 +4,12 @@
 [submodule "PyBase"]
 	path = PyBase
 	url = https://github.com/Danielli-Itai/PyBase.git
+[submodule "PyBaseGUI"]
+	path = PyBaseGUI
+	url = https://github.com/Danielli-Itai/PyBaseGUI.git
+[submodule "PyBaseNlp"]
+	path = PyBaseNlp
+	url = https://github.com/Danielli-Itai/PyBaseNlp.git
+[submodule "PyCrawlerGit"]
+	path = PyCrawlerGit
+	url = https://github.com/Danielli-Itai/PyCrawlerGit.git
