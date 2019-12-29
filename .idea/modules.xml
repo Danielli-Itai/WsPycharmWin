@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyBase/.idea/PyBase.iml" filepath="$PROJECT_DIR$/../PyBase/.idea/PyBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyBaseGUI/.idea/PyBaseGUI.iml" filepath="$PROJECT_DIR$/../PyBaseGUI/.idea/PyBaseGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyBaseNlp/.idea/PyBaseNlp.iml" filepath="$PROJECT_DIR$/../PyBaseNlp/.idea/PyBaseNlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyCrawlerGit/.idea/PyCrawlerGit.iml" filepath="$PROJECT_DIR$/../PyCrawlerGit/.idea/PyCrawlerGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyUsrAppCodeAsist/.idea/PyUsrAppCodeAsist.iml" filepath="$PROJECT_DIR$/../PyUsrAppCodeAsist/.idea/PyUsrAppCodeAsist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-GUI-Programming-Cookbook-Second-Edition/.idea/Python-GUI-Programming-Cookbook-Second-Edition.iml" filepath="$PROJECT_DIR$/../Python-GUI-Programming-Cookbook-Second-Edition/.idea/Python-GUI-Programming-Cookbook-Second-Edition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TfFizzBuzz/.idea/TfFizzBuzz.iml" filepath="$PROJECT_DIR$/../TfFizzBuzz/.idea/TfFizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TfWord2Vec/.idea/TfWord2Vec.iml" filepath="$PROJECT_DIR$/../TfWord2Vec/.idea/TfWord2Vec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WsPycharm.iml" filepath="$PROJECT_DIR$/.idea/WsPycharm.iml" />
+    </modules>
+  </component>
+</project>

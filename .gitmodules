@@ -1,0 +1,6 @@
+[submodule "BasePy"]
+	path = BasePy
+	url = https://github.com/Danielli-Itai/BasePy.git
+[submodule "PyBase"]
+	path = PyBase
+	url = https://github.com/Danielli-Itai/PyBase.git
