@@ -12,5 +12,6 @@
     <mapping directory="$PROJECT_DIR$/PyBase" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PyBaseGUI" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PyBaseNlp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyCrawlerGit" vcs="Git" />
   </component>
 </project>
